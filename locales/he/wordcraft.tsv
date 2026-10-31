@@ -213,7 +213,7 @@ numerals	Arabic	ערביות
 	Automatic Table 2 (2 levels)	טבלה אוטומטית 2 (2 רמות)
 	Automatically add words to list (First Letter)	הוספה אוטומטית של מילים לרשימה (אות ראשונה)
 	Automatically add words to list (INitial CAps)	הוספה אוטומטית של מילים לרשימה (שתי אותיות רישיות)
-	Automatically hyphenate document	הוספת מקפים אוטומטית במסמך
+	Automatically hyphenate document	מיקוף אוטומטי של המסמך
 	Automatically Update Document Styles	עדכון אוטומטי של סגנונות המסמך
 	Automatically update document styles	עדכון אוטומטי של סגנונות המסמך
 	AutoSave	שמירה אוטומטית
@@ -302,7 +302,7 @@ numerals	Arabic	ערביות
 	By author	לפי מחבר
 	Calendar	לוח שנה
 	Can't be deleted	לא ניתן למחיקה
-	Can't find a command? Press Alt+Q and type what you want to do.	לא מוצאים פקודה? לוחצים Alt+Q ומקלידים מה רוצים לעשות.
+	Can't find a command? Press {key} and type what you want to do.	לא מוצאים פקודה? לוחצים {key} ומקלידים מה רוצים לעשות.
 	can't split at the first row	אי אפשר לפצל בשורה הראשונה
 	Canvas Member	רכיב בקנבס
 	Capitalize Each Word	אות ראשונה רישית בכל מילה
@@ -487,10 +487,10 @@ numerals	Context	לפי ההקשר
 	Convert Text to Table…	המרת טקסט לטבלה…
 	Convert to Shapes	המרה לצורות
 	Convert to Text	המרה לטקסט
-	Coproduct	מכפלה משלימה
-	Coproduct with Limits	מכפלה משלימה עם גבולות
-	Coproduct with Lower Limit	מכפלה משלימה עם גבול תחתון
-	Coproduct with Subscript-Superscript Limits	מכפלה משלימה עם גבולות בכתב תחתי ועילי
+	Coproduct	קו-מכפלה
+	Coproduct with Limits	קו-מכפלה עם גבולות
+	Coproduct with Lower Limit	קו-מכפלה עם גבול תחתון
+	Coproduct with Subscript-Superscript Limits	קו-מכפלה עם גבולות בכתב תחתי ועילי
 	Copy Formatting	העתקת עיצוב
 	Copy of the text a bookmark marks	עותק של הטקסט שסימנייה מסמנת
 	Copy Styles	העתקת סגנונות
@@ -522,10 +522,10 @@ numerals	Context	לפי ההקשר
 	Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes	חיתוך על הדף עובד רק בתמונות שאינן מסובבות: יש לקבוע קודם סיבוב של 0°, או להשתמש בתיבות החיתוך
 	Cross-reference	הפניה צולבת
 	Cross-reference:	הפניה צולבת:
-	Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens.	Ctrl+Enter פותח עמוד חדש. הרבה יותר מסודר מללחוץ Enter עד שזה קורה.
-	Ctrl+H finds and replaces text, formatting and special characters.	Ctrl+H מוצא ומחליף טקסט, עיצוב ותווים מיוחדים.
-	Ctrl+K turns the selected text into a link.	Ctrl+K הופך את הטקסט הנבחר לקישור.
-	Ctrl+Shift+G counts your words, characters and paragraphs.	Ctrl+Shift+G סופר מילים, תווים ופסקאות.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} פותח עמוד חדש. הרבה יותר מסודר מללחוץ Enter עד שזה קורה.
+	{key} finds and replaces text, formatting and special characters.	{key} מוצא ומחליף טקסט, עיצוב ותווים מיוחדים.
+	{key} turns the selected text into a link.	{key} הופך את הטקסט הנבחר לקישור.
+	{key} counts your words, characters and paragraphs.	{key} סופר מילים, תווים ופסקאות.
 	Cube Root	שורש שלישי
 	Current - Linear	נוכחי - ליניארי
 	Current - Professional	נוכחי - מקצועי
@@ -565,7 +565,7 @@ numerals	Context	לפי ההקשר
 	Day	יום
 	Decimal	עשרוני
 	Decorative objects only add visual interest: screen readers skip them.	אובייקטים דקורטיביים מוסיפים עניין חזותי בלבד: קוראי מסך מדלגים עליהם.
-	Decrease Indent	הקטנת הזחה
+	Decrease Indent	הקטנת כניסה
 	Deep	עמוק
 	Default Paragraph Font	גופן פסקה המוגדר כברירת מחדל
 	Default tab stops:	טאבים המוגדרים כברירת מחדל:
@@ -650,7 +650,7 @@ numerals	Context	לפי ההקשר
 	DOI	DOI
 	Don't add space between paragraphs of the same style	ללא הוספת רווח בין פסקאות באותו סגנון
 	Don't capitalize after:	ללא אות רישית אחרי:
-	Don't hyphenate	ללא מקפים
+	Don't hyphenate	ללא מיקוף
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	ללא קריאת ציטוטים וביבליוגרפיות של Zotero, Mendeley או EndNote
 	Don't show me this tip again	לא להציג לי שוב את העצה הזו
 	Dot dash	נקודה-קו
@@ -790,8 +790,8 @@ numerals	Context	לפי ההקשר
 	Extend Selection	הרחבת הבחירה
 	Extend Selection by Units	הרחבת הבחירה ביחידות
 	Extra space	רווח נוסף
-	F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps.	F4 חוזר על הפעולה האחרונה. פתאום עיצוב של עשר כותרות הוא לחיצה אחת ותשע הקשות.
-	F7 checks the spelling and grammar of the whole document.	F7 בודק איות ודקדוק בכל המסמך.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} חוזר על הפעולה האחרונה. פתאום עיצוב של עשר כותרות הוא לחיצה אחת ותשע הקשות.
+	{key} checks the spelling and grammar of the whole document.	{key} בודק איות ודקדוק בכל המסמך.
 	Faster: {command} is {key} on the keyboard.	מהר יותר: {command} הוא {key} במקלדת.
 	Field code:	קוד שדה:
 	Field Codes	קודי שדות
@@ -972,9 +972,9 @@ numerals	Hindi	הודיות
 	Hyperbolic Tangent Function	פונקציית טנגנס היפרבולי
 	Hyperlink	היפר-קישור
 	Hyphenate at:	הוספת מקף ב:
-	Hyphenate words in CAPS	מקפים במילים באותיות רישיות
-	Hyphenation Options…	אפשרויות מקפים…
-	Hyphenation zone:	אזור מקפים:
+	Hyphenate words in CAPS	מיקוף מילים באותיות רישיות
+	Hyphenation Options…	אפשרויות מיקוף…
+	Hyphenation zone:	אזור מיקוף:
 	Hyphens (--) as dashes (—)	מקפים (--) כקווים מפרידים (—)
 	Hypotenuse	יתר
 	I promise it's saved. I checked. Twice.	אני מבטיח שזה שמור. בדקתי. פעמיים.
@@ -1010,8 +1010,8 @@ numerals	Hindi	הודיות
 	Increase Indent	הגדלת כניסה
 	Indent	כניסה
 	Indent from left:	כניסה משמאל:
-	Indentation	הזחה
-	Indented	מוזח
+	Indentation	כניסה
+	Indented	עם כניסה
 	Indents	כניסות
 	Indents and Spacing	כניסות וריווח
 	Index and Tables	אינדקס וטבלאות
@@ -1262,8 +1262,8 @@ template	Letter	מכתב
 	Manage Sources	ניהול מקורות
 	Manage Styles	ניהול סגנונות
 	Manage Styles…	ניהול סגנונות…
-	Manual Hyphenation	מקפים ידניים
-	Manual hyphenation is complete.	הוספת המקפים הידנית הושלמה.
+	Manual Hyphenation	מיקוף ידני
+	Manual hyphenation is complete.	המיקוף הידני הושלם.
 	Manual Line Break	מעבר שורה ידני
 	Manual Page Break	מעבר עמוד ידני
 	Manual…	ידני…
@@ -1297,7 +1297,7 @@ template	Letter	מכתב
 	Mesosphere	מזוספרה
 	Midline Dots	נקודות באמצע השורה
 	Minus Equal	מינוס שווה
-	Mirror indents	הזחות במראה
+	Mirror indents	כניסות במראה
 	Mirror margins	שוליים במראה
 	Mirrored	מראה
 	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.
@@ -1408,7 +1408,7 @@ template	Letter	מכתב
 	No-Width Optional Break	מעבר אופציונלי ברוחב אפס
 	Nonbreaking Hyphen	מקף בלתי ניתן לשבירה
 	Normal  {size} all	רגיל  {size} מכל הצדדים
-	Normal Indent	הזחה רגילה
+	Normal Indent	כניסה רגילה
 	Normal probability density	צפיפות הסתברות נורמלית
 	Normal speed	מהירות רגילה
 	Normal Style	סגנון רגיל
@@ -1701,7 +1701,7 @@ template	Letter	מכתב
 	Recovery copy	עותק שחזור
 	Recovery is disabled while this document has a password.	השחזור מושבת כל עוד יש למסמך סיסמה.
 	Red:	אדום:
-	Reduce Hanging Indent	הקטנת הזחה תלויה
+	Reduce Hanging Indent	הקטנת כניסה תלויה
 	Reference type:	סוג ההפניה:
 	References	הפניות
 	Reflection	השתקפות
@@ -1791,7 +1791,7 @@ template	Letter	מכתב
 	Right Border	גבול ימני
 	Right border	גבול ימני
 	Right Bracket Twice	סוגר ימני כפול
-	Right indent	הזחה מימין
+	Right indent	כניסה מימין
 	Right Margin	שוליים ימניים
 	Right Only	ימין בלבד
 	Right-to-left	מימין לשמאל
@@ -1916,7 +1916,7 @@ template	Letter	מכתב
 	Shape Format	עיצוב צורה
 	Shape Outline	קו מתאר של צורה
 	Shape Styles	סגנונות צורה
-	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter מתחיל שורה חדשה בלי להתחיל פסקה חדשה.
+	{key} starts a new line without starting a new paragraph.	{key} מתחיל שורה חדשה בלי להתחיל פסקה חדשה.
 	Shift+Tab	Shift+Tab
 	Shipping labels	תוויות משלוח
 	Shortcut key:	מקש קיצור:
@@ -1946,7 +1946,7 @@ template	Letter	מכתב
 	Show Level 8	הצגת רמה 8
 	Show Level 9	הצגת רמה 9
 	Show Markup	הצגת סימון
-	Show Notes	הצגת הערות שוליים
+	Show Notes	הצגת הערות
 	Show only comments and formatting in balloons	הצגת הערות ועיצוב בלבד בבלונים
 	Show only records that will be merged	הצגת הרשומות שימוזגו בלבד
 	Show or Hide Style	הצגה או הסתרה של סגנון
@@ -1962,7 +1962,7 @@ template	Letter	מכתב
 	Show the Start screen when WordCraft starts	הצגת מסך הפתיחה עם הפעלת WordCraft
 	Show the tips you asked not to see again.	הצגת העצות שביקשת לא לראות שוב.
 	Show/Hide ¶	הצגה/הסתרה של ¶
-	Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text.	הצגה/הסתרה של ¶ (Ctrl+Shift+8) מראה את הרווחים, הטאבים והמעברים שמסתתרים בטקסט.
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	הצגה/הסתרה של ¶ ({key}) מראה את הרווחים, הטאבים והמעברים שמסתתרים בטקסט.
 	Show\nComments	הצגת\nהערות
 	Showing the first {count} items.	מוצגים {count} הפריטים הראשונים.
 	Shows a tree: each item below the item it belongs to.	מציג עץ: כל פריט מתחת לפריט שאליו הוא שייך.
@@ -2164,7 +2164,7 @@ numerals	System	לפי המערכת
 	Text Fill	מילוי טקסט
 	Text from File	טקסט מקובץ
 	Text Highlight Color	צבע סימון טקסט
-	Text indent at:	הזחת טקסט ב:
+	Text indent at:	כניסת טקסט ב:
 	Text of the nearest paragraph with a given style (running headers)	הטקסט של הפסקה הקרובה בסגנון נתון (כותרות רצות)
 	Text Outline	קו מתאר של טקסט
 	Text over Colon Equal	טקסט מעל נקודתיים-שווה

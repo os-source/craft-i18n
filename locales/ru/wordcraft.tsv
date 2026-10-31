@@ -302,7 +302,7 @@
 	Capitalize first letter of sentences	Делать первые буквы предложений прописными
 	Capitalize first letter of table cells	Делать первые буквы ячеек таблиц прописными
 	Capitalize names of days	Названия дней с прописной буквы
-	Capitalize the first word of a sentence	Начинать предложение с прописной буквы
+	Capitalize the first word of a sentence	Начните предложение с прописной буквы
 	Caption Numbering	Нумерация названий
 	Caption text	Текст названия
 	Caption:	Название:
@@ -745,9 +745,7 @@
 	Enter page number:	Введите номер страницы:
 	Entry marked.	Запись помечена.
 	Envelope #10	Конверт №10
-	Envelope #10   4.12" × 9.50"	Конверт №10   4.12" × 9.50"
 	Envelope Address	Адрес на конверте
-	Envelope DL   4.33" × 8.66"	Конверт DL   4.33" × 8.66"
 	Envelope Return	Обратный адрес
 	Envelope size:	Размер конверта:
 	Envelopes	Конверты
@@ -894,7 +892,7 @@
 	Good afternoon	Добрый день
 	Good evening	Добрый вечер
 	Good morning	Доброе утро
-	GOST (name sort)	ГОСТ (сортировка по имени)
+	GOST (name sort)	ГОСТ (сортировка по автору)
 	GOST (title sort)	ГОСТ (сортировка по названию)
 	Grab bag	Разное
 	Gradient fill	Градиентная заливка
@@ -1163,7 +1161,6 @@
 	Less than	Меньше
 	Less than or equal	Меньше или равно
 	Letter	Письмо
-template	Letter	Письмо
 	Letter headings	Заголовки с буквами
 	Letter template	Шаблон письма
 	Letter-Like Symbols	Буквоподобные символы
@@ -1178,7 +1175,6 @@ template	Letter	Письмо
 	Light Variations	Светлые варианты
 	Light with Outline	Светлый с контуром
 	Limit	Предел
-	Limit and	Предел и
 	Limit and\nLog	Предел\nи логарифм
 	Limit consecutive hyphens to:	Максимум последовательных переносов:
 	Limit Example	Пример предела
@@ -1235,7 +1231,6 @@ template	Letter	Письмо
 	Location: {path}	Расположение: {path}
 	Lock aspect ratio	Сохранять пропорции
 	Lock Fields	Заблокировать поля
-	Log	логарифм
 	Logarithm	Логарифм
 	Logarithm with Base	Логарифм по основанию
 	Logical AND	Логическое И
@@ -2083,7 +2078,6 @@ template	Letter	Письмо
 	Style name:	Имя стиля:
 	Style Set	Набор стилей
 	Style:	Тип линии:
-	Style: APA	Стиль: APA
 	Style: {style}	Стиль: {style}
 	Styles Pane	Область стилей
 	Styles:	Стили:
@@ -2393,7 +2387,6 @@ preview	Title	Пример
 	Widow/Orphan Control	Запрет висячих строк
 	Widow/Orphan control	Запрет висячих строк
 	Width and spacing	Ширина и промежуток
-	Wildcards (regex)	Подстановочные знаки (regex)
 	With:	На:
 	Word 2003 XML Document (*.xml)	Документ Word 2003 XML (*.xml)
 	Word Count	Число слов
@@ -2462,5 +2455,3 @@ preview	Title	Пример
 	{words} words. That's {words} more than I've written today.	Слов: {words}. Это на {words} больше, чем я написал сегодня.
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.
 	✓ None	✓ Нет
-	➕ New comment	➕ Новое примечание
-	📂  Browse…	📂  Обзор…

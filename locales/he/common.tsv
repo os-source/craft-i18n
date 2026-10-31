@@ -561,7 +561,7 @@
 #	Hue	
 #	Hue Shift	
 #	Hue/Saturation…	
-	Hyphenation	מקפים
+	Hyphenation	מיקוף
 #	Icon	
 #	Ignore	
 	Ignore All	התעלמות מהכול
@@ -1282,12 +1282,12 @@
 	Zoom Out	הקטנת התצוגה
 #	Zoom out	
 #	Zoom Tool	
-#@plural	{n} commit|{n} commits	
+@plural	{n} commit|{n} commits	{n} קומיט|{n} קומיטים|{n} קומיטים
 #	{n} files	
 #	{n} h ago	
-#@plural	{n} item|{n} items	
-#@plural	{n} Layer|{n} Layers	
+@plural	{n} item|{n} items	{n} פריט|{n} פריטים|{n} פריטים
+@plural	{n} Layer|{n} Layers	{n} שכבה|{n} שכבות|{n} שכבות
 #	{n} min ago	
-#@plural	{n} step|{n} steps	
+@plural	{n} step|{n} steps	{n} צעד|{n} צעדים|{n} צעדים
 #	−Bin	
 #	● Recording	
