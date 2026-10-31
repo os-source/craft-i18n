@@ -68,7 +68,9 @@ Russian, 6 for Arabic.
   whose base language has a directory here. Script variants (`sr-latn`, `zh-hans`, `zh-hant`) never
   fall back, since `sr-latn` to `sr` would show Cyrillic, and `pt-br` falls back only if `pt/` exists.
 - Partial catalogs are welcome. `cargo test coverage_report -- --nocapture` prints each catalog's
-  row count against the largest catalog of the same name.
+  row count against the largest catalog of the same name. To append missing English strings
+  ready to translate (skipping strings already in that language's `common.tsv`), run
+  `tools/missing_translations.py <locale>/<app>.tsv`.
 
 ## What an app shows
 

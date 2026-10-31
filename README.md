@@ -36,7 +36,8 @@ plurals, the system locale) is the `craft-i18n` crate in craft-libs. See
 Catalogs are plain text, one string per line: `context<TAB>English<TAB>translation`. To add or
 fix a translation, edit `locales/<locale>/<file>.tsv` (GitHub's web editor is fine) and open a pull
 request. The English is exactly what the app shows; copy it from another locale's catalog of the
-same name. Partial catalogs are welcome: anything missing shows in English.
+same name, or run `tools/missing_translations.py <locale>/<app>.tsv` to append all missing English
+strings ready to translate. Partial catalogs are welcome: anything missing shows in English.
 
 Until an app's cutover it still reads its own `i18n/*.tsv`: translate that app there, in its own
 repository, and the rows reach this repo with `tools/sync_app.py`
@@ -115,6 +116,7 @@ release once the app's pin, `craft-i18n.rev`, reaches the commit that adds it.
 ```sh
 cargo test --workspace                          # check every catalog
 cargo test coverage_report -- --nocapture       # rows per catalog against the largest locale
+tools/missing_translations.py de/wordcraft.tsv  # append missing strings to a catalog
 ```
 
 Code and translations are MIT OR Apache-2.0 (`LICENSE-MIT`, `LICENSE-APACHE`).
